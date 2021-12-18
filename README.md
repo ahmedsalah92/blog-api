@@ -5,7 +5,7 @@ This is a simple blog api. Users and write posts and comments and perform all CR
 
 After cloning the project, run the following command to install the dependencies   
 ```bash
-Run npm install
+npm install
 ```
 
 ## Database Configuration - postgres on localhost
